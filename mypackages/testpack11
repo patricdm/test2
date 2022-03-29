@@ -1,6 +1,0 @@
-package testpack11
-
-func testfunc11() int {
-
-	return 69
-}
