@@ -1,0 +1,6 @@
+package pa2
+
+func testfunc2() int {
+
+	return 42
+}
