@@ -1,0 +1,6 @@
+package testpack10
+
+func testfunc10() int {
+
+	return 42
+}
