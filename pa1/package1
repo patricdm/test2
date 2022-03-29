@@ -1,4 +1,4 @@
-package testpack1
+package package1
 
 func testfunc1() int {
 
