@@ -1,4 +1,4 @@
-package pa2
+package package2
 
 func testfunc2() int {
 
